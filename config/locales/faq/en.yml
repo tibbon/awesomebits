@@ -1,0 +1,38 @@
+en:
+	faq:
+		faq_info_head: SUPER AWESOME INFO
+		faq_subheading: Everything you need to know about advancing awesomeness.
+		applying_head: Applying for a grant
+		applying_side_short: Applying
+		question_1: Is this for real? 
+		answer_1: Yes.
+		question_2: How does this work? 
+		answer_2: Submissions through our application form are placed in a common pool viewable by all chapters. Each chapter meets monthly to select a project to fund. By consensus, trustees determine which project to fund, and the $1,000 fellowship is distributed accordingly. Some chapters also routinely contact applicants for interviews before awarding the fellowships. \n Chapters are divided by geography, and more recently by topic of interest. While specifying a chapter to apply to is not necessary (all chapters can view the applications received by all other chapters), many chapters show a preference for local projects.
+		question_3: Is this a loan/investment? 
+		answer_3: No. It is a grant with no strings attached. We do not claim any ownership or future claims on your project, nor do we wish for the funds to be repaid.
+		question_4: Great! Who can apply?
+		answer_4: The Awesome Foundation is open to all people and organizations. There are no prerequisites to apply (beyond, of course, being awesome).
+		question_5: How do I apply? 
+		answer_5: You can apply online here. The application is straightforward, and is complete-able in 15 minutes or less. Because of the volume of applications, we cannot personally respond to each application individually. But you will receive a super friendly autoreply in your inbox that lets you know the application was accepted by our system
+		question_6: What have you funded in the past?
+		answer_6: We’ve funded a number of projects since the Foundation was, er, founded. Projects range across a wide spectrum, from public artwork to mobile applications to scientific experiments. You learn more about the grantees and their projects at the Awesome Foundation blog.
+		question_7: Is there anything you typically don't fund?
+		answer_7: While the Awesome Foundation keeps an open mind about projects, we’ve found that there’s generally a few types of submissions that chapters have been less willing to fund. However, these are just guidelines–if you think we’d be interested in your awesome project even if it flirts with one of these types, there’s no penalty for submitting anyway!
+		question_8: Okay, so what's awesome? 
+		answer_8: Awesome projects are not strictly defined, but tend to challenge and expand our understanding of our individual and communal potentials. They bring communities together, casting aside social inhibitions and boundaries for a moment. They spark an instant of joy and delight and inspire a long-term hope for a more awesome future. Pretty specific, huh?
+		general_awesome_head: General awesome questions
+		general_short: General
+		question_9: How are you guys funded? 
+		answer_9: The Awesome Foundation is an entirely independent and self-funded community. Each group of trustees forms a chapter of the Awesome Foundation. Each trustee within those chapters agrees to personally commit to contributing $100 each month to form the single $1,000 grant.
+		question_10: Who are you guys, and how are chapters organized? 
+		answer_10: Awesome Foundation trustees are a diverse bunch from a variety of different fields and backgrounds, linked by a common purpose to foster a dynamic of ecosystem of awesomeness. \n Most chapters also have an appointed “Dean of Awesome,” who serves as a trustee and is responsible for the logistical needs of the chapter. They’ll usually be your local point of contact if you want to know more about the Foundation, events or proposals. \n Since each chapter operates essentially autonomously, local rules might also affect the timing, award amounts, requirements, and other logistics of individual chapters. Contact your local Dean of Awesome.
+		question_11: What is the software the powers this website?
+		answer_11: The Awesome Foundation website is powered by AwesomeBits which is open source software.
+		start_chapter_head: Start your own awesome chapter
+		start_chapter_short: Start chapter
+		question_12: Awesome-socks, can I start a chapter? 
+		answer_12: You certainly can. Just e-mail contact@awesomefoundation.org, tell us about yourself, and we’ll get you set right up. Chapters are mostly self-organizing and autonomous, and we’re a pretty flexible bunch with however you want to launch it.
+		question_13: Can I be a trustee? 
+		answer_13: Chapters tend to have limited memberships of approximately 10 at any given time to preserve the possibility of consensus. Drop a line to contact@awesomefoundation.org. If there is an open slot, trustees join on assent of the other existing trustees, and make a promise to fulfill three duties.
+		question_14: Are my trustee grants tax deductible? 
+		answer_14: As of yet, no.
