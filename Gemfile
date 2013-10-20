@@ -27,6 +27,7 @@ gem 'copycopter_client'
 gem "simple_form", :git => "https://github.com/plataformatec/simple_form.git"
 gem 'nokogiri'
 gem "pry"
+gem "pry-rails"
 gem "pry-nav"
 gem "pry-stack_explorer"
 gem "will_paginate", "~> 3.0.3"
