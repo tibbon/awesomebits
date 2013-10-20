@@ -62,6 +62,10 @@ class Project < ActiveRecord::Base
     where('projects.funded_on is not null').order(:funded_on).reverse_order
   end
 
+  def self.unfunded
+    where('projects.funded_on is null').order(:created_at).reverse_order
+  end
+
   def self.csv_export(projects)
     CSV.generate do |csv|
       csv << attributes_for_export
